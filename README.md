@@ -4,8 +4,6 @@ In dieser Übung geht es darum die verschiedenen gelernten Techniken auf einer W
 
 Als erstes musst du für das Lupensymbol in der Navbar dein Font Awesome Kit verlinken.
 
-**ÄNDERE DAS HTML NICHT!**
-
 ## Benötigte Skills:
 
 - Umgang mit Margin und Padding
@@ -59,8 +57,8 @@ Desktop - Mobile: 1.3rem - 0.9rem
 
 **Tipps:**
 
-- In den media Querries muss nicht viel angegeben werden.
-  - in der 768px Querrie muss nur eine Font-Size angepasst werden
+- Ändere das HTML nur in der 2. Section mit der Bildergalerie.
 - Margins und Paddings bedienen sich folgender Größen: 0.5rem, 1rem 1.5rem, 2rem
 - Schaue dir das `Fullscreen` Video gut an und überlege kurz welche Technik wo verwendet wurde.
 - Die Seite lässt sich mit maximal 240 zeilen CSS aufbauen inkl. Media Querries.
+  - in der 768px Querrie muss nur eine Font-Size angepasst werden
